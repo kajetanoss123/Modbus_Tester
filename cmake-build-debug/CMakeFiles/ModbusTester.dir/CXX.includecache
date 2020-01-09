@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kajetan/Desktop/projekty/ModbusTester/ModbusDevice.h
+modbus/modbus.h
+-
+iostream
+-
+
+/home/kajetan/Desktop/projekty/ModbusTester/ToshibaVFS15.h
+ModbusDevice.h
+/home/kajetan/Desktop/projekty/ModbusTester/ModbusDevice.h
+
+/home/kajetan/Desktop/projekty/ModbusTester/main.cpp
+ToshibaVFS15.h
+/home/kajetan/Desktop/projekty/ModbusTester/ToshibaVFS15.h
+thread
+-
+modbus.h
+/home/kajetan/Desktop/projekty/ModbusTester/modbus.h
+
+/home/kajetan/Desktop/projekty/ModbusTester/modbus.h
+string.h
+-
+iostream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+modbus_exception.h
+/home/kajetan/Desktop/projekty/ModbusTester/modbus_exception.h
+
+/home/kajetan/Desktop/projekty/ModbusTester/modbus_exception.h
+exception
+-
+

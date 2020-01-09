@@ -1,0 +1,3 @@
+/home/kajetan/Desktop/projekty/ModbusTester/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kajetan/Desktop/projekty/ModbusTester/cmake-build-debug/CMakeFiles/ModbusTester.dir
+/home/kajetan/Desktop/projekty/ModbusTester/cmake-build-debug/CMakeFiles/edit_cache.dir
